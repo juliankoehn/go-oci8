@@ -1,3 +1,3 @@
-module github.com/mattn/go-oci8
+module github.com/juliankoehn/go-oci8
 
-go 1.13
+go 1.12
