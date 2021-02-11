@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mattn/go-oci8"
+	"github.com/juliankoehn/go-oci8"
 )
 
 func Example_sqlSelect() {
